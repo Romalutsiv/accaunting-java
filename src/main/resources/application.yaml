@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: accounting
+      uri: mongodb://localhost:27017
